@@ -1,6 +1,6 @@
 ### Hello there!  
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
 </div>  
   
 
@@ -94,5 +94,3 @@ Currently in my sophomore year pursuing Computer Science and Engineering at VIT 
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
