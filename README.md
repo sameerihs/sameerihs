@@ -14,7 +14,7 @@ Currently in my sophomore year pursuing Computer Science and Engineering at VIT 
 - ❓ Ask me about anything related to Android Development and UI  
   
 
-- ⚡ Fun fact: Never look at my unformatted code :)  
+- ⚡ Never look at my unformatted code :)  
   
 
 <br/>  
@@ -78,11 +78,7 @@ Currently in my sophomore year pursuing Computer Science and Engineering at VIT 
 <br/>  
   
 
-<br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ed78yethlv0opmycpmn1do4ja&cover_image=true&theme=default" /></div>  
-
-<br/>  
 
   
 
