@@ -14,7 +14,7 @@ Currently in my sophomore year pursuing Computer Science and Engineering at VIT 
 - ❓ Ask me about anything related to Android Development and UI  
   
 
-- ⚡ Never look at my unformatted code :)  
+- ⚡ Competitive Programmer 
   
 
 <br/>  
